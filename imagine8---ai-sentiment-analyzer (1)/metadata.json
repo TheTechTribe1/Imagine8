@@ -1,0 +1,5 @@
+{
+  "name": "Imagine8 - AI Sentiment Analyzer",
+  "description": "A professional sentiment analysis dashboard powered by Gemini 2.5. Analyze text or batch process files (CSV, TXT) with confidence scoring, keyword extraction, and interactive visualizations.",
+  "requestFramePermissions": []
+}
